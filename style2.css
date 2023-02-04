@@ -1,0 +1,53 @@
+.heading{
+text-align: center;
+color: white;
+}
+.loginblock{
+    background-color:#063e69;
+    /* background-image:linear-gradient(#0066ff,#3399ff); */
+    height:200px;
+    width:320px;
+    color:white;
+    top:30%;
+    right:35%;
+    position:absolute;
+    padding: 50px 20px 30px 10px;
+    border-radius: 20px;
+    outline-color:#063e69;
+    outline-width: 1px;
+    outline-style: auto;
+}
+
+.loginblock input[type="password"]
+{
+    margin-bottom: 20px;
+}
+.loginblock input[type="text"], input[type="password"]{
+    width:100%;
+}
+.loginblock input[type="submit"]{
+    width:102.5%;
+    
+}
+body{
+    background-color:#5cdb94;
+}
+button{
+    
+    outline-color:#063e69;
+    outline-width: 1px ;
+    outline-style:auto;
+    border-radius: 5px;
+    background-color:#063e69;
+    /* background-image:linear-gradient(#0066ff,#3399ff); */
+    height:40px;
+    width: 60px;
+    color:white;
+    top:10%;
+    float:left; 
+    
+    
+}
+
+
+ 
